@@ -15,10 +15,10 @@ function Home() {
         
        
         
-        <Fade bottom duration={1500}>
+        <Fade bottom duration={2500}>
         <p className='heading1'>Lorem Ipsum is simply dummy printing and <br/> text of the printing and typesetting industry </p>
         </Fade>
-   <Fade left duration={2500}> <Card 
+   <Fade left duration={3500}> <Card 
     
          heading={"The point of using Lorem Ipsum is that it"}
          details={"Many desktop publishing packages and web page editors now use "}
@@ -31,7 +31,7 @@ function Home() {
     
     
    <div style={{top:"23rem",position:"absolute"}}
-     ><Fade left duration={2500} ><Card 
+     ><Fade left duration={4500} ><Card 
       heading={"Lorem Ipsum is not simply random text"}
         details={"It has roots in a piece of classical Latin literature from 45 BC ne of"}
         details2={"Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up o"}
