@@ -2,7 +2,7 @@
     background-color: var(--grey);
     height: 45rem;
     margin-top: -5rem;
-    width: 105%;
+    width: 100%;
     
 }
 
@@ -32,10 +32,13 @@
     transform: scale(0.7);
     margin-left: 62rem;
     margin-top: 12.1rem;
-    border-radius: 2rem;
+    border-radius: 1.5rem;
     height: 25rem;
-   
+    width: 18.5rem;
     
 
 
+}
+.footerheading:nth-of-type(2){
+    left: 9rem
 }

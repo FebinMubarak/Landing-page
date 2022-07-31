@@ -2,9 +2,11 @@
 *{
   font-family: 'Assistant', sans-serif;
   
+  
 }
+
 :root{
-  --grey : rgb(236, 218, 218);
+  --grey : rgb(255, 249, 249);
   --black : rgb(0, 0, 0);
 }
 
