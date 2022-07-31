@@ -1,0 +1,38 @@
+.footer{
+    background-color: var(--grey);
+    height: 45rem;
+    margin-top: -5rem;
+    width: 105%;
+    
+}
+
+.footerheading{
+    margin-left: 22rem;
+    position: absolute;
+    margin-top: 10rem;
+
+}
+.footerheading2{
+    margin-left: 22rem;
+    position: absolute;
+    margin-top: 20rem;
+}
+.img3{
+    transform: scale(0.7);
+    position: absolute;
+    margin-top: 6rem;
+    border-radius: 1rem;
+    
+    
+
+}
+.img4{
+    transform: scale(0.7);
+    margin-left: 59rem;
+    margin-top: 6rem;
+   border-radius: 2rem;
+   
+    
+
+
+}
